@@ -1,5 +1,8 @@
 # Media Data Analysis with Machine Learning
 
+<img width="289" alt="image" src="https://github.com/emreCanIlik/Analyzing_Consumer_Behaviours_with_ML/assets/118285895/8d2b0a7f-eca8-4c58-9b61-266647cfe319">
+
+
 Welcome to the Media Data Analysis project! This repository contains code and resources for analyzing media data using machine learning techniques. The project aims to extract valuable insights and patterns from media datasets to support various applications such as content recommendation, sentiment analysis, and trend prediction.
 
 ## Overview
