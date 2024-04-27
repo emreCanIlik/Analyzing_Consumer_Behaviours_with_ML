@@ -1,6 +1,7 @@
 # Media Data Analysis with Machine Learning
 
-    <img width="240" alt="image" src="https://github.com/emreCanIlik/Analyzing_Consumer_Behaviours_with_ML/assets/118285895/0a4899dd-509f-4e3b-8d30-8bcf32ec0395">
+
+<img width="240" alt="image" src="https://github.com/emreCanIlik/Analyzing_Consumer_Behaviours_with_ML/assets/118285895/0a4899dd-509f-4e3b-8d30-8bcf32ec0395">
 
 
 
